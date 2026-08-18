@@ -1,5 +1,8 @@
 # -DarkSword-two
  DarkSword Secondary Development
+
+ The complete project (including the Stage 1 WASM exploit compatible with iOS 16.2, 16.6, and 17.x; the Stage 3 native bridge; and the dylib injected into powerd) is not available for free.
+ 
 <img width="3071" height="1595" alt="image" src="https://github.com/user-attachments/assets/99ca9192-0fc3-4370-bb86-1cf00f99dfb1" />
 
 Admin Dashboard (Vue Frontend)
